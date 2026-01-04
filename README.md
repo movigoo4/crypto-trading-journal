@@ -1,4 +1,4 @@
-# 🚀 CryptoJournal - Premium Crypto Trading Journal
+#  CryptoJournal - Premium Crypto Trading Journal
 
 A high-performance, professional-grade full-stack web application for tracking and analyzing cryptocurrency trades. Built with Next.js 14, featuring a stunning dark "Cyberpunk Financial" design with glassmorphism effects and smooth animations.
 
@@ -74,7 +74,7 @@ A high-performance, professional-grade full-stack web application for tracking a
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <git clone https://github.com/movigoo4/crypto-trading-journal.git>
 cd company
 ```
 
